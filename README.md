@@ -1,9 +1,9 @@
 Based on the book Automate The Boring Stuff with Python.
 
 ### Scripts
-1. Phone and Email python script finds phone numbers and email addresses on the clipboard. Useful if searching in a webpage or resume, you can hit select all (ctrl+A), then copy (ctrl+C for Windows users) and then run the script. It will print in the console if there is any email and/or phone number in the copied text. It will also add it to the clipboard, so you can open a text file and paste the results.
+1. <ins>Phone and Email python script</ins> finds phone numbers and email addresses on the clipboard. Useful if searching in a webpage or resume, you can hit select all (ctrl+A), then copy (ctrl+C for Windows users) and then run the script. It will print in the console if there is any email and/or phone number in the copied text. It will also add it to the clipboard, so you can open a text file and paste the results.
 
-2. Multiplication Quiz is a script that generates 5 multiplication questions.
+2. <ins>Multiplication Quiz</ins> is a script that generates 5 multiplication questions.
 
 ### How to have an easier access the script by creating a Batch file? 
 For my case, the folder at C:\Users\%USERNAME%\BatchScripts contains both the .py and .bat file needed to run the script from a run command (Windowskey + R). 
