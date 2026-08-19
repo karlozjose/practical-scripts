@@ -5,8 +5,10 @@ Based on the book Automate The Boring Stuff with Python.
 
 2. <ins>Multiplication Quiz</ins> is a script that generates 5 multiplication questions.
 
-### How to have an easier access the script by creating a Batch file? 
-For my case, the folder at C:\Users\%USERNAME%\BatchScripts contains both the .py and .bat file needed to run the script from a run command (Windowskey + R). 
-For this to work, the above address have to be in the path environment variables. You can access by searching "path" or "edit system" in the windows search bar. 
+### How to have an easier access to the script by creating a Batch file? 
+In my case, I have saved the folder at C:\Users\%USERNAME%\BatchScripts with both the .py and .bat file needed to run the script from a run command (Windowskey + R). 
+
+So for this to work, the above address have to be in the path environment variables. You can edit this by searching "path" or "edit system" in the windows search bar. 
 A small windows shall open with System Properties as the windows title. Under Advanced, click Environment Variables. Highlight the Path from under the user variables and click Edit. Now add the path to the folder containing the .py and .bat files. 
-Now that is added to the system path pressing Windowskey + R brings up the run command. Now write the name of the script (ex. multiplicationQuiz) without the extension, and it should run. 
+
+Now that is added to the system path, you can bring up the run command (Windowskey + R) and write the name of the script (ex. multiplicationQuiz) without the extension, and it should run. 
